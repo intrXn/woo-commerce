@@ -1,6 +1,6 @@
-# intrxn-com-pay-checkout-for-woocommerce
+# intrxn-com-checkout-for-woocommerce
 
-intrxn.com Pay Checkout for WooCommerce
+intrxn.com  Checkout for WooCommerce
 
 ## Installation
 
